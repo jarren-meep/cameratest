@@ -10,7 +10,7 @@ class Main2 extends StatelessWidget {
       ),
         body: Container(
       child: TextButton(
-        child: Text('Login'),
+        child: Text('First Page'),
         onPressed: () {
           Navigator.push(
             context,
